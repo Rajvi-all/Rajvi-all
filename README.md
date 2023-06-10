@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajvi-all&show_icons=true&locale=en" alt="rajvi-all" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvi-all&" alt="rajvi-all" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajvi-all&" alt="rajvi-all" /> </p>
