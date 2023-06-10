@@ -1,4 +1,4 @@
-<img src ="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
+<center><img src ="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif"></center>
 
 <h1 align="center">Hi 👋, I'm Rutvi Asodariya</h1>
 <h3 align="center">A passionate python backend developer from India</h3>
