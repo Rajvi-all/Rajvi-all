@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif" >
 
-<h1 align="center">Hi 👋, I'm Rutvi Asodariya</h1>
+<h1 align="center">Hi 👋, I'm ganduuu Asodariya</h1>
 <h3 align="center">A passionate python backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvi-all&label=Profile%20views&color=0e75b6&style=flat" alt="rajvi-all" /> </p>
